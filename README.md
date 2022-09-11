@@ -2,11 +2,11 @@
 
 Work on Challenge Option 2: Toronto Transit
 
-## App demo
+## App Demo
 Thunkable Link: https://x.thunkable.com/copy/b5c2bc4fcf65a7b9e6723e0bcb921c68
 
-## Data organization
-colab link: https://colab.research.google.com/drive/1W5kGK8eBrDHqYmDSb5q-3lqtDlEmKEVx?usp=sharing
+## Data Organization / Analysis
+Google Colab link: https://colab.research.google.com/drive/1W5kGK8eBrDHqYmDSb5q-3lqtDlEmKEVx?usp=sharing
 
 Google sheets: 
 https://docs.google.com/spreadsheets/d/1LsWbzb5GoNVxAlZOrYgNX2C-Mpjs3JMWCaSZ4VYKNwk/edit?usp=sharing
